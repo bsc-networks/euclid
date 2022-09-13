@@ -13,7 +13,7 @@ Bandwidth limit is 150 Mb/s up and 20 Mb/s down.
 ## Main router ##
 
     External IP:       DHCP
-    Internal IP:       10.20.36.1
+    Internal IP:       10.20.56.1
     Netmask:           255.255.255.252 (/22)
     DHCP client range: 10.20.36.100 - 10.20.39.190 (859 addresses)
     Location: Network closet
